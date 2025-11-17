@@ -1,2 +1,2 @@
 # Git-guide
-about git...
+about git commands that every programmer should know
