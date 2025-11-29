@@ -1,4 +1,4 @@
-🧩 1) Setup & Configuration
+1) Setup & Configuration
 🔧 Set Username & Email
 
 EN: Configure your identity for Git commits.
@@ -40,7 +40,10 @@ git branch new-feature
 
 🔀 Switch Branch
 git switch new-feature
-# or
+
+
+or
+
 git checkout new-feature
 
 🎯 Create & Switch
