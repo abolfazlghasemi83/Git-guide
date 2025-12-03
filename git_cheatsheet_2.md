@@ -1,4 +1,4 @@
-# Git Cheat Sheet — English + فارسی
+# Git Cheat Sheet 
 
 ## 🧩 1) Setup & Configuration — تنظیمات اولیه
 
