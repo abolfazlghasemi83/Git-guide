@@ -1,4 +1,4 @@
-# Git Cheat Sheet 
+# Git Cheat Sheet  برگه تقلب گیت 
 
 ## بخشی از دستورات اصلی Git
 
