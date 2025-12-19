@@ -1,6 +1,7 @@
-# 📘 The Essential Git Guide — راهنمای ضروری گیت
+# 📘 The Essential Git Guide — راهنمای دستورات ضروری گیت
 
 This guide covers all the essential commands you need for your daily Git workflow, from beginner to proficient.
+
 این راهنما تمام دستورات ضروری برای کارهای روزمره با گیت را پوشش می‌دهد، از سطح مبتدی تا حرفه‌ای.
 
 ---
@@ -123,3 +124,4 @@ This guide covers all the essential commands you need for your daily Git workflo
 | دستور (Command) | توضیح فارسی | English Description |
 | :--- | :--- | :--- |
 | `echo "node_modules/" >> .gitignore` | افزودن فایل/پوشه به لیست نادیده‌ها | Adds a path to the `.gitignore` file. |
+
