@@ -6,7 +6,7 @@
 
 | English | فارسی |
 | :--- | :--- |
-| 👋 **Welcome to the Hub!** | <p dir="rtl">👋 **به این مرجع خوش آمدید!**</p> |
+| 👋 **Welcome!** | <p dir="rtl">👋 **خوش آمدید!**</p> |
 | This repository is meticulously crafted to be the only Git reference you'll ever need. It provides two distinct, comprehensive guides tailored for different needs, from daily essentials to deep, advanced commands. | <p dir="rtl">این ریپازیتوری با دقت و وسواس طراحی شده تا تنها مرجع گیت باشد که به آن نیاز خواهید داشت. در اینجا دو راهنمای جامع و مجزا ارائه می‌شود که برای نیازهای مختلف، از دستورات ضروری روزمره تا دستورات پیشرفته و عمیق، مناسب است.</p> |
 
 ---
